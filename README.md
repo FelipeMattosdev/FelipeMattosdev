@@ -2,8 +2,8 @@
 # 👋 Olá, eu sou Felipe Mattos
 
 ## 👨‍🎓 Formação
-- Cursando Engenharia de Software na Universidade Vassouras
-- Cursou 3 períodos de Análise e Desenvolvimento de Sistemas
+- Cursando Engenharia de Software na Universidade Vassouras - 2º Periodo
+- Cursou 3 períodos de Análise e Desenvolvimento de Sistemas - 2020 a 2021
 
 ## 👨‍💻 Sobre Mim
 - 💼 Procurando por oportunidades para aprender e crescer na área de tecnologia
@@ -15,7 +15,7 @@
 - [Meu Portfólio](https://github.com/FelipeMattosDev/portifolio) - Meu primeiro projeto em HTML5 e CSS
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/felipe-mattos-680664147/)
 - Email: fariasmattos@gmail.com
 
 ---
