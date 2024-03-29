@@ -15,7 +15,7 @@
 - [Meu Portfólio](https://github.com/FelipeMattosDev/portifolio) - Meu primeiro projeto em HTML5 e CSS
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/felipe-mattos-680664147/)
+- LinkedIn: [Felipe Mattos](https://www.linkedin.com/in/felipe-mattos-680664147/)
 - Email: fariasmattos@gmail.com
 
 ---
