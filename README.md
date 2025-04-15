@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou Felipe Mattos
 
 ## 👨‍🎓 Formação
-- Cursando Engenharia de Software na Universidade Vassouras - 2º Periodo
+- Cursando Engenharia de Software na Universidade Vassouras - 4º Periodo
 - Cursou 3 períodos de Análise e Desenvolvimento de Sistemas - 2020 a 2021
 
 ## 👨‍💻 Sobre Mim
